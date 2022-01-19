@@ -23,6 +23,7 @@ http://127.0.0.1:8000/package/
  Build the DB schema design
 
 schema name 
+
 channel_type,
 channel_language,
 channel_list,
